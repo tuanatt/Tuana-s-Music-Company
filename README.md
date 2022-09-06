@@ -1,6 +1,7 @@
 # Tuana-s-Music-Company
 
 Description:
+
 Wrote a MySQL code for the song artists that I listen and put their records in tables which differs by their songs, albums, singers.
 Put some information about albums such as how long they are and their release date.
 Tried my skills by adding more singers, albums or deleting them.
